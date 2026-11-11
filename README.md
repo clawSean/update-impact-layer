@@ -1,4 +1,4 @@
-# openclaw-update 🦞
+# Update Impact Layer 🦞
 
 An OpenClaw skill that keeps a small, machine-local impact ledger around the
 native updater. It tracks only what OpenClaw cannot know itself: live local
@@ -11,7 +11,7 @@ coordination, reports, repair, recovery, or cleanup.
 ## Install
 
 ```bash
-openclaw skills install @clawSean/native-update-companion
+openclaw skills install @clawSean/update-impact-layer
 ```
 
 Or clone this repository into your OpenClaw workspace as
