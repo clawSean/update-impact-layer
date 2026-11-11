@@ -11,7 +11,7 @@ coordination, reports, repair, recovery, or cleanup.
 ## Install
 
 ```bash
-openclaw skills install @clawSean/openclaw-update
+openclaw skills install @clawSean/native-update-companion
 ```
 
 Or clone this repository into your OpenClaw workspace as
