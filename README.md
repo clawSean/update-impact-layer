@@ -1,4 +1,4 @@
-# Update Impact Layer 🦞
+# Clawkeeper 🦞
 
 An OpenClaw skill that keeps a small, machine-local impact ledger around the
 native updater. It tracks only what OpenClaw cannot know itself: live local
